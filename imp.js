@@ -1,0 +1,18 @@
+document.write( '<div id=\"dugagc\" style=\"width:autopx; height:autopx; text-align:left; display:scroll;position:fixed; bottom:0px;left:0px;\">\n' );
+document.write( '    <div>\n' );
+document.write( '        <a href=\"#\" id=\"close-teaser\" onclick=\"document.getElementById(\'dugagc\').style.display = \'none\';\" style=\"cursor:pointer;\">\n' );
+document.write( '            <center>\n' );
+document.write( '                <img src=\'https://image.ibb.co/e85dkG/codea.png\' />\n' );
+document.write( '            </center>\n' );
+document.write( '        </a>\n' );
+document.write( '    </div>\n' );
+document.write( '\n' );
+document.write( '    <div id=\'dugagece\' style=\'height:250px; width:280px;\'>\n' );
+document.write( '        <script async src=\"//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js\"></script>\n' );
+document.write( '        <!-- pekanews tengah baru -->\n' );
+document.write( '        <ins class=\"adsbygoogle\" style=\"display:inline-block;width:300px;height:250px\" data-ad-client=\"ca-pub-9253553917837715\" data-ad-slot=\"5780869943\"></ins>\n' );
+document.write( '        <script>\n' );
+document.write( '            (adsbygoogle = window.adsbygoogle || []).push({});\n' );
+document.write( '        </script>\n' );
+document.write( '    </div>\n' );
+document.write( '</div>' );
